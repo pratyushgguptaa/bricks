@@ -1,5 +1,7 @@
-##Demo
+##Game of Bricks
 
-check
+2D BreakOut Game Using Pure JavaScript
 
-#more check
+#learning through
+
+[this](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript) link
